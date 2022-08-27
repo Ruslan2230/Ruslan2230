@@ -133,6 +133,9 @@
 </p>
 
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21xdexqbp2kx2cgcqifb7yb2i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21xdexqbp2kx2cgcqifb7yb2i&cover_image=true&theme=default&bar_color_cover=true)]]
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code++&size=22&pause=1000&color=11FF4A&multiline=true&width=593&height=110&lines=Your+thoughts+are+like+circles+on+the+water%2C+;my+friend.+In+excitement%2C+clarity+disappears%2C;but+if+you+let+the+waves+calm+down%2C+;the+answer+becomes+obvious+%F0%9F%90%BC.)](https://git.io/typing-svg)
 
 <!--🦶FOOTER-->
