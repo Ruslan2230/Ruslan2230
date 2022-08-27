@@ -128,9 +128,13 @@
  <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
 <br>
 <br> -->
+  
+  
 
 <p align="right"><a href="https://www.buymeacoffee.com/gritsak5s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=21xdexqbp2kx2cgcqifb7yb2i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21xdexqbp2kx2cgcqifb7yb2i&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xdexqbp2kx2cgcqifb7yb2i&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21xdexqbp2kx2cgcqifb7yb2i&redirect=true)
 
