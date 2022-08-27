@@ -10,6 +10,15 @@
 <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/PAnda-b_11zon.jpg" width="40%">
 
 
+<br><br>
+<a href="https://twitter.com/PandaFrontend">
+<img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ruslan-hrytsak-8a96b0132/">
+<img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+
 <!-- <p align="center">
   <a href="https://github.com/AnMnV?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/AnMnV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
