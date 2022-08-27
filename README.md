@@ -6,10 +6,10 @@
 
 
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Ruslan+Hrytsak+Front+Developer" />
+<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Ruslan+Hrytsak+Front+Developer" /> -->
 <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/PAnda-b_11zon.jpg" width="40%">
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code++&size=22&pause=1000&color=41EBFF&width=527&height=60&lines=Hi+and+Wellcome+to+my+GitHub++%F0%9F%99%8C;I'm+Ruslan+Hrytsak+Frontend+Developer+%F0%9F%A7%90)](https://git.io/typing-svg)
 <!-- <p align="center">
   <a href="https://github.com/AnMnV?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/AnMnV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -90,7 +90,7 @@
 
 |CodeWars|
  :----- |
-|<img width="50%" src="codewars.png" alt="Profil codewars">|
+|<img width="80%" src="codewars.png" alt="Profil codewars">|
 
 
 
