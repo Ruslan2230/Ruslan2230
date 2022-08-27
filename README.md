@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,js,html,css,sass,styledcomponents,git,github,vim,webpack,stackoverflow,react,aws,docker,graphql,jest,linkedin,twitter,materialui,nextjs,nodejs,redux,twitter,materialui,nextjs,nodejs,redux,tailwind,figma,ts" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,styledcomponents,tailwind,git,github,vim,webpack,stackoverflow,react,aws,docker,graphql,jest,linkedin,twitter,materialui,nextjs,nodejs,redux,figma,ts,firebase,nginx," />
   </a>
 </p>
 
