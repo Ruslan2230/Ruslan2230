@@ -5,11 +5,11 @@
 ![header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7yaJwLSp8gzWOjLwPxXyLIqzZx7guYBxtQ&usqp=CAU)
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code++&size=22&pause=1000&color=41EBFF&width=527&height=60&lines=Hi+and+Wellcome+to+my+GitHub++%F0%9F%99%8C;I'm+Ruslan+Hrytsak+Frontend+Developer+%F0%9F%A7%90)](https://git.io/typing-svg)
 <!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Ruslan+Hrytsak+Front+Developer" /> -->
 <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/PAnda-b_11zon.jpg" width="40%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code++&size=22&pause=1000&color=41EBFF&width=527&height=60&lines=Hi+and+Wellcome+to+my+GitHub++%F0%9F%99%8C;I'm+Ruslan+Hrytsak+Frontend+Developer+%F0%9F%A7%90)](https://git.io/typing-svg)
+
 <!-- <p align="center">
   <a href="https://github.com/AnMnV?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/AnMnV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -90,7 +90,7 @@
 
 |CodeWars|
  :----- |
-|<img width="80%" src="codewars.png" alt="Profil codewars">|
+|<img width="70%" src="codewars.png" alt="Profil codewars">|
 
 
 
@@ -125,10 +125,10 @@
 
 <!--🦶FOOTER-->
 <!-- <img src="https://vodzilla.co/wp-content/uploads/2022/04/F2B542AB-FE7C-4CD7-B58D-AACB1C8A47FC.jpeg" width="20%"> -->
-<img src="https://i.pinimg.com/originals/fe/ca/81/feca815db224b9504d37960cc12bd69f.jpg" width="20%">
-<img src="https://static01.nyt.com/images/2008/06/30/business/panda.650.jpg?quality=75&auto=webp&disable=upscale" width="20%">
-<img src="https://otakudome.com/wp-content/uploads/2016/07/ST_20160309_WYMOVIE09_2121620.jpg" width="20%">
-<img src="https://i0.wp.com/livewire.thewire.in/wp-content/uploads/2020/06/kung-fu.jpg?fit=1500%2C633&ssl=1" width="20%">
-<img src="https://i.pinimg.com/originals/d6/40/00/d640003f24d90a4fe657bbe87d239595.jpg" width="18%">
+<img style="display: inline-block" src="https://i.pinimg.com/originals/fe/ca/81/feca815db224b9504d37960cc12bd69f.jpg" width="20%">
+<img style="display: inline-block" src="https://static01.nyt.com/images/2008/06/30/business/panda.650.jpg?quality=75&auto=webp&disable=upscale" width="20%">
+<img style="display: inline-block" src="https://otakudome.com/wp-content/uploads/2016/07/ST_20160309_WYMOVIE09_2121620.jpg" width="20%">
+<img style="display: inline-block" src="https://i0.wp.com/livewire.thewire.in/wp-content/uploads/2020/06/kung-fu.jpg?fit=1500%2C633&ssl=1" width="20%">
+<img style="display: inline-block" src="https://i.pinimg.com/originals/d6/40/00/d640003f24d90a4fe657bbe87d239595.jpg" width="18%">
 <img src="https://miro.medium.com/max/1400/1*wLCHEekWiQAj-Q-Fg_8zcg.jpeg" width="100%">
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
