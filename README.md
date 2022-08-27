@@ -125,10 +125,12 @@
 
 <!--🦶FOOTER-->
 <!-- <img src="https://vodzilla.co/wp-content/uploads/2022/04/F2B542AB-FE7C-4CD7-B58D-AACB1C8A47FC.jpeg" width="20%"> -->
+<div style="display: flex" > 
 <img style="display: inline-block" src="https://i.pinimg.com/originals/fe/ca/81/feca815db224b9504d37960cc12bd69f.jpg" width="20%">
 <img style="display: inline-block" src="https://static01.nyt.com/images/2008/06/30/business/panda.650.jpg?quality=75&auto=webp&disable=upscale" width="20%">
 <img style="display: inline-block" src="https://otakudome.com/wp-content/uploads/2016/07/ST_20160309_WYMOVIE09_2121620.jpg" width="20%">
 <img style="display: inline-block" src="https://i0.wp.com/livewire.thewire.in/wp-content/uploads/2020/06/kung-fu.jpg?fit=1500%2C633&ssl=1" width="20%">
 <img style="display: inline-block" src="https://i.pinimg.com/originals/d6/40/00/d640003f24d90a4fe657bbe87d239595.jpg" width="18%">
 <img src="https://miro.medium.com/max/1400/1*wLCHEekWiQAj-Q-Fg_8zcg.jpeg" width="100%">
+</div> 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
